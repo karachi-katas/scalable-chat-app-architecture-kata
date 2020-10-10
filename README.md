@@ -1,0 +1,1 @@
+# scalable-chat-app-architecture-kata
